@@ -2,7 +2,7 @@
 
 ##Screenshot of Website
 
-![screenshot of quiz game and local storage](Assets/quiz.png)
+![screenshot of quiz game and local storage](assets/quiz.png)
 
 ## Link to Live
 
